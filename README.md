@@ -26,17 +26,27 @@
   <img src="https://img.shields.io/badge/Install_on_Stremio-7C3AED?style=for-the-badge&logo=stremio&logoColor=white" alt="Install on Stremio" />
 </a>
 
-```text
 https://addon.notorrent2.workers.dev/manifest.json
-⭐ Premium
-$9/year - Additional server bandwidth, priority access, and fast resolution indexing.
+
+
+---
+
+## ⭐ Premium
+**$9/year** - Speed, 4K & early releases.
+
 <a href="https://www.paypal.com/ncp/payment/283WL2A4WG9AC">
-<img src="https://img.shields.io/badge/Buy_Premium-⭐_9/year-FF6B00?style=for-the-badge&logo=paypal&logoColor=white" alt="Buy Premium" />
+  <img src="https://img.shields.io/badge/Buy_Premium-⭐_9/year-FF6B00?style=for-the-badge&logo=paypal&logoColor=white" alt="Buy Premium" />
 </a>
-⚠️ Disclaimer
-NoTorrent is a community metadata indexing tool and does not host, store, or transmit any media files. All content descriptions and data are retrieved from public APIs. Users are solely responsible for how they use this addon and ensuring compliance with local regulations.
+
+---
+
+## ⚠️ Disclaimer
+This addon does **not** host any content. Users are solely responsible for their usage.
+
+---
+
 <div align="center">
-<a href="https://github.com/notorrent/addon">GitHub</a> ·
-<a href="https://notorrent.github.io/addon/">Website</a> ·
-<a href="https://www.reddit.com/user/Scrapper_ok/">Reddit</a>
+  <a href="https://github.com/notorrent/addon">GitHub</a> · 
+  <a href="https://notorrent.github.io/addon/">Website</a> · 
+  <a href="https://www.reddit.com/user/Scrapper_ok/">Reddit</a>
 </div>
